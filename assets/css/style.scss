@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:link {
+    color: #ea4aaa;
+}
+
+a:hover {
+    color: #ec6cb9;
+}
+
+a:active {
+    color: #f692ce;
+}
+
+a:visited {
+    color: #ea4aaa;
+}
