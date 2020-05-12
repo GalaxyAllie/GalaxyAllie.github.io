@@ -16,6 +16,8 @@ While I have a lot of things I tinker with, I currently have two reasonably comp
 
 [Candy the Catacorn](https://github.com/GalaxyAllie/Candy-the-Catacorn) is a catacorn-themed mini badge. It has capacitive touch ears and lots of LEDs, and is a lot of fun to build and a great beginner project that kids and grown-ups alike can build and have fun with.
 
+This board was prototyped with the [Adafruit Trinket M0](https://www.adafruit.com/product/3500) so if you don't like my adaptations or just want to learn things yourself, that's probably a good place to start. Same for Meow Meow Ears below, but less so (e.g. they have no DotStar-compatible LED for status).
+
 ### Meow Meow Ears
 
 [Meow Meow Ears](https://github.com/GalaxyAllie/MeowMeowEars) are a pair of RGB cat ears on a headband.
