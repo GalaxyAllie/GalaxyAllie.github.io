@@ -20,4 +20,4 @@ This board was prototyped with the [Adafruit Trinket M0](https://www.adafruit.co
 
 ### Meow Meow Ears
 
-[Meow Meow Ears](https://github.com/GalaxyAllie/MeowMeowEars) are a pair of RGB cat ears on a headband.
+[Meow Meow Ears](https://github.com/GalaxyAllie/MeowMeowEars) are a pair of RGB cat ears on a headband. The boards are designed to fit into most typical cat ear headbands and the sample code is designed for [PlatformIO](https://platformio.org/).
