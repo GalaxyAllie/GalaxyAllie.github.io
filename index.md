@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, I'm Allie :) I've created this site to tell you a little more about me and my projects.
+Hi, I'm Allie :) I've created this site to tell you a little more about me and my projects. All opinions, statements, writing, etc are purely my own and are not endorsed by my employer, my friends, my family, or anyone else!
 
 ## Who am I?
 
