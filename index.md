@@ -4,7 +4,7 @@ Hi, I'm Allie 🧜🏻‍♀️ I've created this site to tell you a little more
 
 ## Who am I?
 
-Mostly a nerd 👩🏼‍💻 I'm currently working at, and loving, GitHub. Prior to GitHub I've been in a lot of different jobs - everything from working AV 🎤 and concerts 🎶 to face painting at festivals 👩🏼‍🎨. Most recently, I was at UCL as a service manager. 
+Mostly a nerd 👩🏼‍💻 I'm currently working at, and loving, GitHub. Prior to GitHub I've been in a lot of different jobs - everything from working AV 🎤 and concerts 🎶 to face painting 👩🏼‍🎨. Most recently, I was at UCL as a service manager. 
 
 I love cats 😻, glittery things 💖, and more. My favourite colour is pink and I really appreciate kawaii fashion. Hugs are good, and the world needs more love for one another! Be kind ❤️🧡💛💚💙💜
 
