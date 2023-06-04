@@ -6,25 +6,25 @@
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
 
 a:link {
-    color: #ff0b40;
-}
-
-a:hover {
     color: #ff3762;
 }
 
+a:hover {
+    color: #ff4a71;
+}
+
 a:active {
-    color: #ff0b40;
+    color: #ff3762;
 }
 
 a:visited {
-    color: #ff0b40;
+    color: #ff3762;
 }
 
 body {
     color: #FFFFFF;
     background-color: #320021;
-    background-image: linear-gradient(164deg, #b30050 0%, #4c0019 20%, #1c0000 100%);
+    background-image: linear-gradient(159deg, #990145 0%, #330011 28%, #000000 100%);
         font-family: 'ABeeZee', sans-serif;
 }
 
