@@ -6,44 +6,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400&family=Shadows+Into+Light+Two&display=swap');
 
 a:link {
-    color: #ea4aaa;
+    color: #ff81ab;
 }
 
 a:hover {
-    color: #ec6cb9;
+    color: #ff5d93;
 }
 
 a:active {
-    color: #f692ce;
+    color: #ff81ab;
 }
 
 a:visited {
-    color: #ea4aaa;
+    color: #ff81ab;
 }
 
 body {
     color: #FFFFFF;
-    background-color: #100027;
+    background-color: #320021;
+    background-image: linear-gradient(149deg, #68002e 0%, #420451 46%, #12001c 100%);    
     font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-    color: #b392f0;
+    color: #ffa3d1;
     font-family: 'Shadows Into Light Two', cursive;
 }
 
 h2 {
-    color: #d1bcf9;
+    color: #ffa3d1;
     font-family: 'Shadows Into Light Two', cursive;
 }
 
 h3 {
-    color: #e6dcfd;
+    color: #ffa3d1;
     font-family: 'Shadows Into Light Two', cursive;
 }
 
 h4 {
-    color: #f5f0ff;
+    color: #ffa3d1;
     font-family: 'Shadows Into Light Two', cursive;
 }
 
