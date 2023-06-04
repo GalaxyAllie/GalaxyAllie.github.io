@@ -4,20 +4,20 @@ Hi, I'm Allie 🧜🏻‍♀️ I've created this site to tell you a little more
 
 ## Who am I?
 
-Mostly a nerd 👩🏼‍💻 I'm currently working at, and loving, GitHub. Prior to GitHub I've been in a lot of different jobs - everything from working AV 🎤 and concerts 🎶 to face painting 👩🏼‍🎨. Most recently, I was at UCL as a service manager. 
+Mostly a nerd 👩🏼‍💻 I'm currently working at GitHub helping people to make the most of GitHub. Prior to GitHub I've been in a lot of different jobs - everything from working AV 🎤 and concerts 🎶 to face painting 👩🏼‍🎨. Most recently prior to GitHub, I was at UCL as an IT and AV service manager. 
 
-I love cats 😻, glittery things 💖, and more. My favourite colour is pink and I really appreciate kawaii fashion. Hugs are good, and the world needs more love for one another! Be kind ❤️🧡💛💚💙💜
+I love cats 😻, glittery things 💖, and more. My favourite colour is pink and I really appreciate kawaii fashion. Hugs are good, and the world needs more love for one another 🫶! Be kind ❤️🧡💛💚💙💜
 
 ## Hobby Projects
 
-While I have a lot of things I tinker with, I currently have two reasonably complete, ready-to-build projects on GitHub. Both fit nicely in kawaii-themed things and are fun projects for all ages:
+I regularly work on hobby projects, and I'm always looking for new things to learn and try. I have an interest in tech, especially cute technology! Hardware and networking are my current interests, and I also have an interest in information security. Some projects of interest include:
+
+### Allienet (AS205789)
+
+Allienet is a small home network that I run for fun. I'm currently announcing `2a05:dfc3:cafe::/48` from my home, where it's being used by me, friends, family, visitors, and for general learning. I'm looking to expand Allienet in the future as I learn more about how the Internet works and develop my skills. For network operations issues, please contact me at allie@galaxyallie.space
 
 ### Candy the Catacorn
 
 [Candy the Catacorn](https://galaxyallie.space/Candy-the-Catacorn/) 🐱🦄 is a catacorn-themed mini badge. It has capacitive touch ears and lots of LEDs, and is a lot of fun to build and a great beginner project that kids and grown-ups alike can build and have fun with.
 
 This board was prototyped with the [Adafruit Trinket M0](https://www.adafruit.com/product/3500) so if you don't like my adaptations or just want to learn things yourself, that's probably a good place to start. Same for Meow Meow Ears below, but less so (e.g. they have no DotStar-compatible LED for status).
-
-### Meow Meow Ears
-
-[Meow Meow Ears](https://github.com/GalaxyAllie/MeowMeowEars) are a pair of RGB cat ears on a headband. The boards are designed to fit into most typical cat ear headbands and the sample code is designed for [PlatformIO](https://platformio.org/).
