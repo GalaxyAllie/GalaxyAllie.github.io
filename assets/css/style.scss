@@ -5,6 +5,27 @@
 
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
 
+@font-face {
+    font-family: ABeeZee;
+    src: url('assets/ABeeZee/ABeeZee-Italic.ttf');
+    font-style:italic
+  }
+
+@font-face {
+  font-family: ABeeZee;
+  src: url('assets/ABeeZee/ABeeZee-Regular.ttf');
+}
+
+@font-face {
+    font-family: Gilbert Bold;
+    src: url('assets/Gilbert_1.005_alpha/Gilbert-Bold Preview5.otf');
+}
+
+@font-face {
+    font-family: Gilbert Bold Color;
+    src: url('assets/Gilbert_1.005_alpha/Gilbert-Color Bold Preview5.otf');
+}
+
 a:link, a:active, a:visited {
     color: #ff3762;
     font-weight:400;
@@ -26,7 +47,7 @@ body {
 
 h1, h2, h3, h4 {
     color: #ffcbed;
-    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Gilbert Bold', 'ABeeZee', sans-serif;
     font-weight: 700;
 }
 
@@ -51,7 +72,8 @@ h5, h6 {
 }
 
 #homeheader {
-    margin-bottom: 5px;    
+    margin-bottom: 5px; 
+    font-family: 'Gilbert Bold Color', 'Gilbert Bold', 'ABeeZee', sans-serif;   
 }
 
 code, pre {
