@@ -3,27 +3,25 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
-
 @font-face {
     font-family: ABeeZee;
-    src: url('assets/ABeeZee/ABeeZee-Italic.ttf');
+    src: url('https://galaxyallie.space/assets/ABeeZee/ABeeZee-Italic.ttf');
     font-style:italic
   }
 
 @font-face {
-  font-family: ABeeZee;
-  src: url('assets/ABeeZee/ABeeZee-Regular.ttf');
+    font-family: ABeeZee;
+    src: url('https://galaxyallie.space/assets/ABeeZee/ABeeZee-Regular.ttf');
 }
 
 @font-face {
     font-family: Gilbert Bold;
-    src: url('assets/Gilbert_1.005_alpha/Gilbert-Bold Preview5.otf');
+    src: url('https://galaxyallie.space/assets/Gilbert_1.005_alpha/Gilbert-Bold Preview5.otf');
 }
 
 @font-face {
     font-family: Gilbert Bold Color;
-    src: url('assets/Gilbert_1.005_alpha/Gilbert-Color Bold Preview5.otf');
+    src: url('https://galaxyallie.space/assets/Gilbert_1.005_alpha/Gilbert-Color Bold Preview5.otf');
 }
 
 a:link, a:active, a:visited {
