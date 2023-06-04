@@ -5,21 +5,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
 
-a:link {
+a:link, a:active, a:visited {
     color: #ff3762;
+    font-weight:400;
 }
 
-a:hover, a:focus {
+a:hover, a:focus, a:visited:hover, a:visited:focus {
     color: #ff7593;
-    font-weight:400
-}
-
-a:active {
-    color: #ff3762;
-}
-
-a:visited {
-    color: #ff3762;
+    font-weight:400;
 }
 
 body {
@@ -27,23 +20,31 @@ body {
     background-color: #320021;
     background-image: linear-gradient(159deg, #990145 0%, #330011 28%, #000000 100%);
     font-family: 'ABeeZee', sans-serif;
+    font-weight: 400;
     background-attachment: fixed;
 }
 
 h1, h2, h3, h4 {
     color: #ffcbed;
     font-family: 'ABeeZee', sans-serif;
+    font-weight: 700;
 }
 
 h5, h6 { 
     color: #FFFFFF;
     font-family: 'ABeeZee', sans-serif;
+    font-weight: 400;
 }
 
 #homelink {
     color: #fdceed;
     font-weight: 700;
     :hover {
-        font-weight: 700
-    }
+        font-weight: 700;
+        color: #ff00aa
+    };
+    :visited:hover {
+        font-weight: 700;
+        color: #ff00aa
+    };
 }
