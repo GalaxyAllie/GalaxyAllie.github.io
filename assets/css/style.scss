@@ -9,8 +9,9 @@ a:link {
     color: #ff3762;
 }
 
-a:hover {
+a:hover, a:focus {
     color: #ff4a71;
+    font-weight:400
 }
 
 a:active {
