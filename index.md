@@ -14,7 +14,7 @@ I regularly work on hobby projects, and I'm always looking for new things to lea
 
 ### Allienet (AS205789)
 
-Allienet is a small home network that I run for fun. I'm currently announcing `2a05:dfc3:cafe::/48` from my home, where it's being used by me, friends, family, visitors, and for general learning. I'm looking to expand Allienet in the future as I learn more about how the Internet works and develop my skills. For network operations issues, please contact me at allie@galaxyallie.space
+Allienet is a small home network that I run for fun. I'm currently announcing a single IPv6 subnet from my home, where it's being used by me, friends, family, visitors, and for general learning. I'm looking to expand Allienet in the future as I learn more about how the Internet works and develop my skills. For network operations issues, please contact me at allie@galaxyallie.space
 
 ### Candy the Catacorn
 
