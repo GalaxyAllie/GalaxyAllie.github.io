@@ -41,5 +41,9 @@ h5, h6 {
 }
 
 #homelink {
-    color: #ffa3df;
+    color: #fdceed;
+    font-weight: 700;
+    :hover {
+        font-weight: 700
+    }
 }
