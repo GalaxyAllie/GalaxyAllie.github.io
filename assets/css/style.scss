@@ -166,7 +166,7 @@ footer {
     -webkit-font-smoothing:subpixel-antialiased
 }
 
-@media print, screen and (max-width: 1110px) {
+@media print, screen and (max-width: 960px) {
     div.wrapper {
         width: auto;
         margin:0
@@ -179,7 +179,7 @@ footer {
     }
 
     header {
-        padding-right:320px
+        padding-right:270px
     }
 
     section {
