@@ -88,13 +88,13 @@ h4, h5, h6 {
         color: #ff00aa
     };
     font-size: 48px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #000000;
 }
 
 #homeheader {
     margin-bottom: 5px; 
     font-family: 'Gilbert Bold Color', 'Gilbert Bold', 'ABeeZee', sans-serif;   
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #000000;
 }
 
 code, pre {
