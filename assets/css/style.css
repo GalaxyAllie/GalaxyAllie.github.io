@@ -79,7 +79,7 @@ h1 {
     font-family: 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 700;
     font-size: 36px;
-    margin: 0 0 5px;
+    margin: 0 0 0px;
 }
 
 h2 {
@@ -87,7 +87,7 @@ h2 {
     font-family: 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    margin: 0 0 5px;
+    margin: 0 0 0px;
 }
 
 h3 {
@@ -95,14 +95,14 @@ h3 {
     font-family: 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 700;
     font-size: 20px;
-    margin: 0 0 5px;
+    margin: 0 0 0px;
 }
 
 h4, h5, h6 { 
     color: #FFFFFF;
     font-family: 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 400;
-    margin: 0 0 5px;
+    margin: 0 0 0px;
 }
 
 #spaceheader {
