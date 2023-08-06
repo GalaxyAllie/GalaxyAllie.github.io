@@ -76,7 +76,7 @@ a:hover, a:focus, a:visited:hover, a:visited:focus {
 }
 
 h1 {
-    color: #ffcbed;
+    color: #ffc1d4;
     font-family: 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -84,7 +84,7 @@ h1 {
 }
 
 h2 {
-    color: #ffcbed;
+    color: #ffc1d4;
     font-family: 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 700;
     font-size: 26px;
@@ -92,7 +92,7 @@ h2 {
 }
 
 h3 {
-    color: #ffcbed;
+    color: #ffc1d4;
     font-family: 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif;
     font-weight: 700;
     font-size: 20px;
@@ -107,15 +107,15 @@ h4, h5, h6 {
 }
 
 #spaceheader {
-    color: #fdceed;
+    color: #fdcedf;
     font-weight: 700;
     :hover {
         font-weight: 700;
-        color: #ff00aa
+        color: #ff0084
     };
     :visited:hover {
         font-weight: 700;
-        color: #ff00aa
+        color: #ff0084
     };
     font-size: 48px;
     font-family: 'Gilbert Bold Color', 'Gilbert Bold', 'ABeeZee', 'Comic Sans MS', sans-serif; 
@@ -124,6 +124,6 @@ h4, h5, h6 {
 }
 
 code, pre {
-    color: #e6b4ca;
+    color: #e6b4c6;
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
 }
